@@ -1,0 +1,60 @@
+﻿exchanges:
+  HKEX:
+    currency: HKD
+    timezone: Asia/Hong_Kong
+    assets:
+      - ticker: "0700.HK"
+        name: Tencent Holdings
+        local_name: "騰訊控股"
+        sector: Technology
+        keywords: ["Tencent", "0700.HK", "Tencent stock", "騰訊"]
+      - ticker: "9988.HK"
+        name: Alibaba Group
+        local_name: "阿里巴巴"
+        sector: E-Commerce
+        keywords: ["Alibaba", "9988.HK", "Alibaba stock", "阿里巴巴"]
+      - ticker: "0005.HK"
+        name: HSBC Holdings
+        local_name: "滙豐控股"
+        sector: Banking
+        keywords: ["HSBC", "0005.HK", "HSBC stock"]
+      - ticker: "1299.HK"
+        name: AIA Group
+        local_name: "友邦保險"
+        sector: Insurance
+        keywords: ["AIA", "1299.HK", "AIA stock"]
+      - ticker: "3690.HK"
+        name: Meituan
+        local_name: "美團"
+        sector: Consumer Services
+        keywords: ["Meituan", "3690.HK", "Meituan stock"]
+
+  KRX:
+    currency: KRW
+    timezone: Asia/Seoul
+    assets:
+      - ticker: "005930.KS"
+        name: Samsung Electronics
+        local_name: "삼성전자"
+        sector: Semiconductors
+        keywords: ["Samsung Electronics", "005930.KS", "Samsung stock"]
+      - ticker: "000660.KS"
+        name: SK Hynix
+        local_name: "SK하이닉스"
+        sector: Semiconductors
+        keywords: ["SK Hynix", "000660.KS", "HBM"]
+      - ticker: "035420.KS"
+        name: NAVER
+        local_name: "네이버"
+        sector: Internet
+        keywords: ["NAVER", "035420.KS", "Naver stock"]
+      - ticker: "005380.KS"
+        name: Hyundai Motor
+        local_name: "현대자동차"
+        sector: Automotive
+        keywords: ["Hyundai Motor", "005380.KS", "Hyundai stock"]
+      - ticker: "035720.KS"
+        name: Kakao
+        local_name: "카카오"
+        sector: Technology
+        keywords: ["Kakao", "035720.KS", "Kakao stock"]
